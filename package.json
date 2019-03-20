@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mikyyyz/Koa2-test/issues"
   },
-  "homepage": "https://github.com/mikyyyz/Koa2-test#readme"
+  "homepage": "https://github.com/mikyyyz/Koa2-test#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
