@@ -2,7 +2,7 @@
  * @Author: miky 
  * @Date: 2019-03-20 23:42:46 
  * @Last Modified by: miky
- * @Last Modified time: 2019-03-21 00:09:39
+ * @Last Modified time: 2019-03-21 00:38:15
  */
 
  module.exports = `
@@ -21,8 +21,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <h1>Hi, mikky</h1>
-                <p>This is Mikyyz</p>
+                <h1>Hi, <%= you %></h1>
+                <p>This is <%= me %></p>
             </div>
             <div class="col-md-4">
                 <p>测试静态HTML文件</p>
